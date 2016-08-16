@@ -1,15 +1,15 @@
-Cucumber学习笔记
-===========
+# Cucumber学习笔记
 
-> 注: 如果你看到的是github的源代码, 请点击 [这里](http://skyao.github.io/leaning-cucumber/) 查看html内容.
-
-# 介绍
+## 介绍
 
 Cucumber 学习笔记.
 
-# 章节内容
+这份学习笔记, 记录 Cucumber 的学习过程和日常使用.
 
-TBD
+## 导航
 
-内容陆续添加中......
+如果看到的是github的源代码, 请点击下面的链接:
+
+[Cucumber学习笔记@gitbook](https://skyao.gitbooks.io/leaning-cucumber/)
+
 
