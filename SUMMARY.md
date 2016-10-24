@@ -1,4 +1,4 @@
-bui# Summary
+# Summary
 
 * [Cucumber介绍](introduction/index.md)
 	* [我们的目标](introduction/target.md)
@@ -14,3 +14,4 @@ bui# Summary
 * [实践](practice/index.md)
 	* [使用中文](practice/chinese.md)
 	* [传递参数](practice/pass_parameters.md)
+* [全文标签总览](tags.md)
