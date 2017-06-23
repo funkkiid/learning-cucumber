@@ -22,7 +22,7 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-        "base": "https://github.com/skyao/leaning-cucumber/edit/master",
+        "base": "https://github.com/skyao/learning-cucumber/edit/master",
         "label": "Edit"
     }
   },
